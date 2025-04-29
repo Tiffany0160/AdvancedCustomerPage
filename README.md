@@ -8,10 +8,10 @@ A Microsoft Dynamics 365 Business Central AL extension that introduces a customi
 
 - 🔹 Custom "Main Menu" page for simplified navigation
 - 🔹 Enum-based page selection (`Page Navigation Enum`)
-- 🔹 Codeunit-driven dynamic navigation (`Navigation Handler`)
+- 🔹 Code unit-driven dynamic navigation (`Navigation Handler`)
 - 🔹 Page extensions to integrate seamlessly into standard BC UI
 - 🔹 Permission set included to control access
-- 🔹 AL test codeunit for validation
+- 🔹 AL test code unit for validation
 - 🔹 Report to demonstrate basic reporting
 
 ---
