@@ -9,7 +9,7 @@
   "server": "https://TELDev.dev.navertica.com",
   "serverInstance": "BC",
   "authentication": "AAD",
-  "startupObjectId": 50140,
+  "startupObjectId": 50143,
   "startupObjectType": "Page",
   "breakOnError": true,
   "launchBrowser": true,

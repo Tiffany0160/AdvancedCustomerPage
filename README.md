@@ -18,3 +18,5 @@ A Microsoft Dynamics 365 Business Central AL extension that introduces a customi
 
 ## 📁 Project Structure
 
+In Bc Main Menu
+
