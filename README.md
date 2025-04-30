@@ -20,3 +20,7 @@ A Microsoft Dynamics 365 Business Central AL extension that introduces a customi
 
 In Bc Main Menu
 
+git add .
+git commit -m "Describe your changes here"
+git push origin main
+
