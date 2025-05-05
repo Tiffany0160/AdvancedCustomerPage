@@ -1,0 +1,16 @@
+{
+    "containerResultPath":  "",
+    "launchConfigName":  "TELDev.dev.navertica.com",
+    "securePassword":  "",
+    "userName":  "",
+    "companyName":  "",
+    "testSuiteName":  "",
+    "vmUserName":  "",
+    "vmSecurePassword":  "",
+    "remoteContainerName":  "",
+    "dockerHost":  "",
+    "newPSSessionOptions":  "",
+    "testRunnerServiceUrl":  "http://TELDev.dev.navertica.com:7047/BC/WS//Codeunit/TestRunner?tenant=default",
+    "codeCoveragePath":  ".//.altestrunner//codecoverage.json",
+    "culture":  "en-US"
+}
