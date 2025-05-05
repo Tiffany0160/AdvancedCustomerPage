@@ -8,7 +8,7 @@
   "environmentType": "OnPrem",
   "server": "https://TELDev.dev.navertica.com",
   "serverInstance": "BC",
-  "authentication": "Windows",
+  "authentication": "AAD",
   "startupObjectId": 50143,
   "startupObjectType": "Page",
   "breakOnError": true,
@@ -17,7 +17,6 @@
   "enableSqlInformationDebugger": true,
   "primaryTenantDomain": "navertica.com",
   "tenant": "default"
-  
         }
     ]
 }
